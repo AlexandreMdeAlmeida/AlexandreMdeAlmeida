@@ -17,7 +17,7 @@
   ---
   
 ### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a LeWagon's Web Development Student and a Brazilian :brazil: living in Portugal 🇵🇹.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Le Wagon's Web Development Student! A :brazil: living in Portugal 🇵🇹.
   
 - :seedling: I aspire to work as programmer/developer in the near future.
 
