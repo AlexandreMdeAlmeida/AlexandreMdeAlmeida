@@ -17,9 +17,9 @@
   ---
   
 ### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Le Wagon's Web Development Student! A :brazil: living in Portugal 🇵🇹.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Junior Web Deverloper! A :brazil: living in Guimarães/Portugal 🇵🇹.
   
-- :seedling: I aspire to work as programmer/developer in the near future.
+- :seedling: I am continuously studying and looking for my first job as a developer.
 
 - :mailbox: How to reach me: alexandrebrcn@gmail.com
   
