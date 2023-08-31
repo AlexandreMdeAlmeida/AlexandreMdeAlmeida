@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Junior Web Deverloper! A :brazil: living in Guimarães/Portugal 🇵🇹.
   
-- :seedling: I am continuously studying and looking for my first job as a developer.
+- :seedling: I just graduated from Le Wagon's 9-week, full-time Bootcamp, and I am currently  studying and looking for my first job as a developer.
 
 - :mailbox: How to reach me: alexandrebrcn@gmail.com
   
