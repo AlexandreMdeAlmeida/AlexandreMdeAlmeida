@@ -13,12 +13,19 @@
 
   ---
   
-  ### :man_technologist: About Me :
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Junior Web Deverloper! A Brazilian :brazil: living in Guimarães/Portugal 🇵🇹.
-  
-   - :seedling: I just graduated from Le Wagon's 9-week, full-time Bootcamp, and I am currently studying and looking for my first job as a developer.
+### :man_technologist:
 
-   - :mailbox: How to reach me: alexandrebrcn@gmail.com
+about_me = { <br>
+  name: "Alexandre M de Almeida", <br>
+  role: "Junior Web Developer",<br>
+  nationality: "Brazilian 🇧🇷",<br>
+  location: "Guimarães, Portugal 🇵🇹",<br>
+  education: "Recently graduated from Le Wagon's 9-week, full-time Bootcamp",<br>
+  status: "Currently studying hard and searching for my first developer job",<br>
+  contact: "📫 How to reach me: [alexandrebrcn@gmail.com](mailto:alexandrebrcn@gmail.com)"<br>
+}
+
+puts info
   
   ---
   
