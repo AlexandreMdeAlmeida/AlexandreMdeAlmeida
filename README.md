@@ -21,7 +21,7 @@ about_me = { <br>
   nationality: "Brazilian 🇧🇷",<br>
   location: "Guimarães, Portugal 🇵🇹",<br>
   education: "Recently graduated from Le Wagon's 9-week, full-time Bootcamp",<br>
-  status: "Currently studying hard and searching for my first developer job",<br>
+  status: "Currently studying hard and searching for my first job as a Web Developer",<br>
   contact: "📫 How to reach me: [alexandrebrcn@gmail.com](mailto:alexandrebrcn@gmail.com)"<br>
 }
 
